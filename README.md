@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tirthpathar/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/tirthpathar/leetcode/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -72,4 +73,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tirthpathar/leetcode/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/tirthpathar/leetcode/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/tirthpathar/leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
