@@ -43,12 +43,14 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tirthpathar/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tirthpathar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/tirthpathar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/tirthpathar/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tirthpathar/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/tirthpathar/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/tirthpathar/leetcode/tree/master/0649-dota2-senate) |
+| [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
