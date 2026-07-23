@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tirthpathar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tirthpathar/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tirthpathar/leetcode/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -20,6 +21,7 @@
 | [0041-first-missing-positive](https://github.com/tirthpathar/leetcode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tirthpathar/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tirthpathar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/tirthpathar/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tirthpathar/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -57,6 +60,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tirthpathar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tirthpathar/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Queue
 |  |
