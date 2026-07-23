@@ -4,24 +4,22 @@ public:
 
         stack<int> st;
 
-        for (int i = 0; i < operations.size(); i++) {
-
-            if (operations[i] == "+") {
+        for(int i = 0; i < operations.size(); i++) {
+            if(operations[i] == "+") {
                 int first = st.top();
                 st.pop();
 
                 int second = st.top();
+                int s = first + second;
 
                 st.push(first);
-                st.push(first + second);
+                st.push(s);
             }
 
-            else if (operations[i] == "D") {
-                st.push(2 * st.top());
-            }
+            else if(operations[i] == "C") st.pop();
 
-            else if (operations[i] == "C") {
-                st.pop();
+            else if(operations[i] == "D") {
+                st.push(2*st.top());
             }
 
             else {
@@ -29,13 +27,18 @@ public:
             }
         }
 
-        int sum = 0;
+        int ans = 0;
+        while(st.size() != 0) {
 
-        while (!st.empty()) {
-            sum += st.top();
+            
+            ans += st.top();
             st.pop();
+            
         }
 
-        return sum;
+        return ans;
+
+
+        
     }
 };
