@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/tirthpathar/leetcode/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/tirthpathar/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tirthpathar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/tirthpathar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tirthpathar/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tirthpathar/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tirthpathar/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tirthpathar/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
