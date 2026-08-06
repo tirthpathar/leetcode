@@ -95,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tirthpathar/leetcode/tree/master/0022-generate-parentheses) |
 | [0649-dota2-senate](https://github.com/tirthpathar/leetcode/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -108,6 +109,15 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tirthpathar/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/tirthpathar/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/tirthpathar/leetcode/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tirthpathar/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tirthpathar/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
