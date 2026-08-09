@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tirthpathar/leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/tirthpathar/leetcode/tree/master/0038-count-and-say) |
 | [0649-dota2-senate](https://github.com/tirthpathar/leetcode/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
 ## Greedy
