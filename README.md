@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/tirthpathar/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0078-subsets](https://github.com/tirthpathar/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tirthpathar/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/tirthpathar/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tirthpathar/leetcode/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/tirthpathar/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
