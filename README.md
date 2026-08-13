@@ -17,6 +17,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tirthpathar/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tirthpathar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tirthpathar/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tirthpathar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tirthpathar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
