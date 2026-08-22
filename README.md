@@ -17,6 +17,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tirthpathar/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2326-spiral-matrix-iv](https://github.com/tirthpathar/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tirthpathar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 | [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2326-spiral-matrix-iv](https://github.com/tirthpathar/leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,9 +150,14 @@
 | [0142-linked-list-cycle-ii](https://github.com/tirthpathar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tirthpathar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tirthpathar/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/tirthpathar/leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tirthpathar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tirthpathar/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Matrix
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/tirthpathar/leetcode/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
