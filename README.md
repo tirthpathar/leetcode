@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/tirthpathar/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/tirthpathar/leetcode/tree/master/0041-first-missing-positive) |
+| [0059-spiral-matrix-ii](https://github.com/tirthpathar/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/tirthpathar/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tirthpathar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/tirthpathar/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -90,6 +91,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/tirthpathar/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/tirthpathar/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -159,5 +161,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/tirthpathar/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2326-spiral-matrix-iv](https://github.com/tirthpathar/leetcode/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
