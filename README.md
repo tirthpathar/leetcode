@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tirthpathar/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/tirthpathar/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/tirthpathar/leetcode/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/tirthpathar/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tirthpathar/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tirthpathar/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
