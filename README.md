@@ -167,4 +167,20 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tirthpathar/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2326-spiral-matrix-iv](https://github.com/tirthpathar/leetcode/tree/master/2326-spiral-matrix-iv) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tirthpathar/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tirthpathar/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tirthpathar/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tirthpathar/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
