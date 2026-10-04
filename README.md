@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tirthpathar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tirthpathar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/tirthpathar/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/tirthpathar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tirthpathar/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tirthpathar/leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tirthpathar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/tirthpathar/leetcode/tree/master/0038-count-and-say) |
 | [0649-dota2-senate](https://github.com/tirthpathar/leetcode/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/tirthpathar/leetcode/tree/master/0844-backspace-string-compare) |
@@ -194,4 +196,20 @@
 | ------- |
 | [0100-same-tree](https://github.com/tirthpathar/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/tirthpathar/leetcode/tree/master/0226-invert-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tirthpathar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tirthpathar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tirthpathar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tirthpathar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
