@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/tirthpathar/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/tirthpathar/leetcode/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/tirthpathar/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/tirthpathar/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/tirthpathar/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tirthpathar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/tirthpathar/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -36,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/tirthpathar/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/tirthpathar/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
