@@ -13,6 +13,7 @@
 | [0078-subsets](https://github.com/tirthpathar/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tirthpathar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/tirthpathar/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/tirthpathar/leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/tirthpathar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tirthpathar/leetcode/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@
 | [0141-linked-list-cycle](https://github.com/tirthpathar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tirthpathar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tirthpathar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/tirthpathar/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tirthpathar/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
@@ -59,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tirthpathar/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tirthpathar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -238,4 +241,16 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tirthpathar/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tirthpathar/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tirthpathar/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tirthpathar/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
