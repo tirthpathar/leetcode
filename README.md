@@ -42,12 +42,14 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tirthpathar/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/tirthpathar/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/tirthpathar/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tirthpathar/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tirthpathar/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tirthpathar/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tirthpathar/leetcode/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tirthpathar/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
