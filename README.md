@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tirthpathar/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tirthpathar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/tirthpathar/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/tirthpathar/leetcode/tree/master/0039-combination-sum) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tirthpathar/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/tirthpathar/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/tirthpathar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tirthpathar/leetcode/tree/master/0142-linked-list-cycle-ii) |
