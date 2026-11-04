@@ -24,6 +24,7 @@
 | [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tirthpathar/leetcode/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1672-richest-customer-wealth](https://github.com/tirthpathar/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tirthpathar/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/tirthpathar/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tirthpathar/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/tirthpathar/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/tirthpathar/leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Tree
 |  |
