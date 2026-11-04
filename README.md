@@ -24,6 +24,7 @@
 | [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tirthpathar/leetcode/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tirthpathar/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1512-number-of-good-pairs](https://github.com/tirthpathar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/tirthpathar/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tirthpathar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tirthpathar/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tirthpathar/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
+| [1512-number-of-good-pairs](https://github.com/tirthpathar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tirthpathar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -50,6 +52,7 @@
 | [0069-sqrtx](https://github.com/tirthpathar/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/tirthpathar/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1512-number-of-good-pairs](https://github.com/tirthpathar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/tirthpathar/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tirthpathar/leetcode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tirthpathar/leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/tirthpathar/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
