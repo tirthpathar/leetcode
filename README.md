@@ -49,6 +49,7 @@
 | [0069-sqrtx](https://github.com/tirthpathar/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/tirthpathar/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [2235-add-two-integers](https://github.com/tirthpathar/leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
