@@ -30,6 +30,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tirthpathar/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/tirthpathar/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tirthpathar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3934-smallest-unique-subarray](https://github.com/tirthpathar/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0496-next-greater-element-i](https://github.com/tirthpathar/leetcode/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/tirthpathar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tirthpathar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3934-smallest-unique-subarray](https://github.com/tirthpathar/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0069-sqrtx](https://github.com/tirthpathar/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tirthpathar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tirthpathar/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3934-smallest-unique-subarray](https://github.com/tirthpathar/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -273,4 +276,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tirthpathar/leetcode/tree/master/0069-sqrtx) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tirthpathar/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tirthpathar/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tirthpathar/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
